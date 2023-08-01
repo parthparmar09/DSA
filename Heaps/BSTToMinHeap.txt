@@ -1,0 +1,2 @@
+1.make an array from inorder traversal
+2.copy values one by one using preorder traversal
